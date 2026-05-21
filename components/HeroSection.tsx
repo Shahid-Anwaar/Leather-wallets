@@ -30,7 +30,7 @@ export default function HeroSection() {
         <div className="">
           {/* Background Image */}
           <Image
-            src="/pages/1.png"
+            src="/pages/1.webp"
             alt="Premium leather wallet lifestyle banner"
             width={1600}
             height={900}
@@ -97,15 +97,16 @@ export default function HeroSection() {
             </div>
 
             {/* Right Premium Card */}
-            <div className="flex justify-start lg:justify-end lg:order-2 ">
+            <div className="flex justify-start min-h-48 lg:justify-end lg:order-2 ">
               <div className="surface-white max-w-2xl p-2 lg:p-4">
                 <div className="relative aspect-[4/3] overflow-hidden rounded-[18px] bg-primary-50">
                   <Image
-                    src="/pages/12.png"
+                    src="/pages/12.webp"
                     alt="Luxury leather wallet closeup"
                     width={700}
                     height={500}
-                    className="h-full w-full object-fill"
+                    priority
+                    className="h-full w-full object-cover"
                   />
 
                   <div className="absolute left-4 top-4">

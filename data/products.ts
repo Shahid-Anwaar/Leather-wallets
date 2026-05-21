@@ -22,7 +22,7 @@ export const products: Product[] = [
     slug: 'classic-bifold-leather-wallet',
     category: 'bifold-wallets',
     price: 49.99,
-    image: '/pages/6.png',
+    image: '/pages/6.webp',
     description:
       'A timeless bifold leather wallet crafted from premium full-grain leather for everyday use.',
     features: [
@@ -44,7 +44,7 @@ export const products: Product[] = [
     slug: 'executive-brown-bifold-wallet',
     category: 'bifold-wallets',
     price: 64.99,
-    image: '/pages/2.png',
+    image: '/pages/2.webp',
     description:
       'A refined brown bifold wallet designed for professionals who prefer premium style and practical storage.',
     features: [
@@ -66,7 +66,7 @@ export const products: Product[] = [
     slug: 'premium-trifold-leather-wallet',
     category: 'trifold-wallets',
     price: 54.99,
-    image: '/pages/7.png',
+    image: '/pages/7.webp',
     description:
       'A premium trifold wallet designed with extra storage, rich leather texture, and refined craftsmanship.',
     features: [
@@ -88,7 +88,7 @@ export const products: Product[] = [
     slug: 'vintage-trifold-leather-wallet',
     category: 'trifold-wallets',
     price: 59.99,
-    image: '/pages/8.png',
+    image: '/pages/8.webp',
     description:
       'A vintage-inspired trifold wallet with rustic leather finish, extra compartments, and classic charm.',
     features: [
@@ -110,7 +110,7 @@ export const products: Product[] = [
     slug: 'slim-minimalist-leather-wallet',
     category: 'slim-minimalist-wallets',
     price: 39.99,
-    image: '/pages/9.png',
+    image: '/pages/9.webp',
     description:
       'A lightweight minimalist leather wallet made for clean carry, quick access, and modern style.',
     features: [
@@ -132,7 +132,7 @@ export const products: Product[] = [
     slug: 'rfid-slim-leather-wallet',
     category: 'slim-minimalist-wallets',
     price: 42.99,
-    image: '/pages/10.png',
+    image: '/pages/10.webp',
     description:
       'A sleek RFID slim wallet made for secure everyday carrying without adding bulk to your pocket.',
     features: [
@@ -154,7 +154,7 @@ export const products: Product[] = [
     slug: 'leather-card-holder-wallet',
     category: 'card-holders',
     price: 29.99,
-    image: '/pages/11.png',
+    image: '/pages/11.webp',
     description:
       'A compact leather card holder made for quick access, clean pocket carry, and premium daily use.',
     features: [
@@ -176,7 +176,7 @@ export const products: Product[] = [
     slug: 'magnetic-leather-card-holder',
     category: 'card-holders',
     price: 34.99,
-    image: '/pages/12.png',
+    image: '/pages/12.webp',
     description:
       'A modern leather card holder with magnetic closure, slim shape, and polished premium look.',
     features: [
@@ -198,7 +198,7 @@ export const products: Product[] = [
     slug: 'leather-money-clip-wallet',
     category: 'money-clip-wallets',
     price: 44.99,
-    image: '/pages/13.png',
+    image: '/pages/13.webp',
     description:
       'A stylish leather money clip wallet with a secure clip, slim profile, and elegant everyday design.',
     features: [
