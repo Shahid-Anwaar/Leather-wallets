@@ -8,7 +8,7 @@ const guides = [
   {
     title: 'How to Choose the Best Leather Wallet',
     slug: '/blog',
-    image: '/pages/3.png',
+    image: '/pages/3.webp',
     category: 'Buying Guide',
     description:
       'Learn what to check before choosing a leather wallet, including leather quality, size, stitching, and daily use.',
@@ -16,7 +16,7 @@ const guides = [
   {
     title: 'Bifold vs Slim Wallet: Which One Is Better?',
     slug: '/blog',
-    image: '/pages/4.png',
+    image: '/pages/4.webp',
     category: 'Wallet Tips',
     description:
       'Compare classic bifold wallets and slim minimalist wallets to find the right option for your lifestyle.',
@@ -24,7 +24,7 @@ const guides = [
   {
     title: 'How to Care for a Leather Wallet',
     slug: '/blog',
-    image: '/pages/5.png',
+    image: '/pages/5.webp',
     category: 'Leather Care',
     description:
       'Simple care tips to keep your leather wallet looking clean, polished, and premium for years.',
