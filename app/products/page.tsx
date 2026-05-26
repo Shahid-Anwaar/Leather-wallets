@@ -6,6 +6,7 @@ import { Icon } from '@iconify/react';
 import { products, Product } from '@/data/products';
 import ProductCard from '@/components/ProductCard';
 import PageHero from '@/components/PageHero';
+import CTASection from '@/components/CTASection';
 
 const productCategories = [
   {
@@ -157,6 +158,13 @@ function ProductsPageContent() {
             </button>
           </div>
         )}
+        <CTASection
+          label="Still Need Help?"
+          title="Have Questions? Contact Us"
+          subTitle="We’re here to help you with wallet selection, order questions, and customer support."
+          btnText="Contact Us"
+          btnLink="/contact"
+        />
       </div>
     </section>
   );
