@@ -89,12 +89,12 @@ export default function NotFoundPage() {
             <section className="layout-section-space">
                 <div className="layout-page-container">
                     <CTASection
-  label="Still Need Help?"
-  title="Can’t Find the Page You’re Looking For?"
-  subTitle="The page may have been moved or removed. You can go back to the homepage or contact us if you need help finding something."
-  btnText="Go to Homepage"
-  btnLink="/"
-/>
+                        label="Still Need Help?"
+                        title="Can’t Find the Page You’re Looking For?"
+                        subTitle="The page may have been moved or removed. You can go back to the homepage or contact us if you need help finding something."
+                        btnText="Go to Homepage"
+                        btnLink="/"
+                    />
                 </div>
             </section>
         </>
