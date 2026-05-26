@@ -139,10 +139,10 @@ export default function BlogPage() {
                   </span>
                 </div>
 
-                <Link href="#" className="btn-base btn-size-md btn-brand">
+                {/* <Link href="#" className="btn-base btn-size-md btn-brand">
                   Read Guide
                   <Icon icon="mdi:arrow-right" className="h-5 w-5" />
-                </Link>
+                </Link> */}
               </div>
             </div>
           </article>
@@ -210,10 +210,10 @@ export default function BlogPage() {
                       </p>
                     </div>
 
-                    <Link href="#" className="btn-text-link">
+                    {/* <Link href="#" className="btn-text-link">
                       Read
                       <Icon icon="mdi:arrow-right" className="h-4 w-4" />
-                    </Link>
+                    </Link> */}
                   </div>
                 </div>
               </article>

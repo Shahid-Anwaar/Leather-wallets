@@ -89,7 +89,7 @@ export default function HeroSection() {
                   <Icon icon="mdi:arrow-top-right" className="h-5 w-5" />
                 </Link>
 
-                <Link href="/about" className="btn-base btn-size-lg btn-on-dark">
+                <Link href="/about" className="btn-base btn-size-lg btn-outline">
                   Learn More
                   <Icon icon="mdi:arrow-right" className="h-5 w-5" />
                 </Link>

@@ -91,10 +91,10 @@ export default function BuyingGuideSection() {
                   {guide.description}
                 </p>
 
-                <span className="btn-text-link">
+                {/* <span className="btn-text-link">
                   Read Guide
                   <Icon icon="mdi:arrow-right" className="h-4 w-4" />
-                </span>
+                </span> */}
               </div>
             </Link>
           ))}
